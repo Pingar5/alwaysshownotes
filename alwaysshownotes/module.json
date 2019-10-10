@@ -4,7 +4,7 @@
 	"description": "Sets the Display Notes toggle to true by default",
 	"version": "0.1",
 	"author": "Pin",
-	"scripts": ["./always-show-notes.js"],
+	"scripts": ["./alwaysshownotes.js"],
 	"styles": [],
 	"packs": [],
     "url": "https://github.com/Pingar5/alwaysshownotes",
