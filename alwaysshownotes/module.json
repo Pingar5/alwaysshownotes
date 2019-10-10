@@ -2,7 +2,7 @@
 	"name": "alwaysshownotes",
 	"title": "Always Show Notes",
 	"description": "Sets the Display Notes toggle to true by default",
-	"version": "0.1",
+	"version": "0.2",
 	"author": "Pin",
 	"scripts": ["./alwaysshownotes.js"],
 	"styles": [],
